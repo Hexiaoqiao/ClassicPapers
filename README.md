@@ -46,6 +46,7 @@
 |google-stack.pdf| 
 |paxos-simple.pdf| 
 |raft.pdf| 
+|SIGMOD20|[ACM SIGMOD 2020](https://dl.acm.org/doi/proceedings/10.1145/3318464)|
 
 ### How to contribute
 1. Prepare a classical paper
